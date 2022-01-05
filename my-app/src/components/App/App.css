@@ -1,0 +1,31 @@
+.App {
+  font-size: 15px;
+  background: linear-gradient(rgb(240, 247, 255), rgb(255, 255, 255));
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.heading {
+  font-size: 2rem;
+  color: rgb(87, 169, 236);
+}
+.main {
+  margin: 30px;
+}
+
+.project-card {
+  height: 350px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgb(87, 169, 236);
+}
